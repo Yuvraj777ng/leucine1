@@ -67,5 +67,8 @@ Built as a small demo to satisfy CRUD requirements for equipment management.
 
 
 <!-- REPOSITORY: Add the GitHub repository URL here after pushing (e.g. https://github.com/<your-username>/leucine) -->
+
+image ![WhatsApp Image 2025-12-18 at 2 05 58 PM](https://github.com/user-attachments/assets/aa3def9f-a7a6-4dd3-8b2b-577b37744909)
+
 =======
 
