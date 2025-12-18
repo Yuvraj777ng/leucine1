@@ -1,0 +1,12 @@
+{
+  "name": "leucine",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm run start --prefix server\" \"npm run dev --prefix client\"",
+    "install-all": "npm install --prefix server && npm install --prefix client",
+    "audit:fix": "npm audit fix --force"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  }
+}

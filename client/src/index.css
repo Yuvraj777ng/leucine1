@@ -1,0 +1,18 @@
+* { box-sizing: border-box; }
+body { font-family: Arial, Helvetica, sans-serif; margin: 20px; background: #f7f7f9; color: #222 }
+.container { max-width: 900px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.06) }
+h1 { margin-top: 0 }
+.controls { margin-bottom: 12px }
+button { margin-right: 8px }
+.equipment-table { width: 100%; border-collapse: collapse }
+.equipment-table th, .equipment-table td { border: 1px solid #e8e8e8; padding: 8px; text-align: left }
+.equipment-table th { background: #fafafa }
+.empty { text-align: center; color: #777 }
+.form { background: #fcfcfd; padding: 12px; border: 1px solid #eee; margin-bottom: 12px }
+.form-row { display: flex; gap: 12px; align-items: center; margin-bottom: 8px }
+.form-row label { width: 140px }
+.form-row input, .form-row select { flex: 1; padding: 6px }
+.form-actions { margin-top: 8px }
+.error { color: #c00; font-size: 12px; margin-top: 4px }
+button.danger { color: #fff; background: #d9534f; border: none; padding: 6px 10px }
+button.muted { background: #eee; border: none; padding: 6px 10px }
